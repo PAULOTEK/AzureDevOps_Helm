@@ -59,3 +59,6 @@ Você pode configurar gatilhos de implantação para acionar a implantação aut
 ##  Passo 6: Monitoramento e Logging
 
 Configure o monitoramento e logging adequados para o seu aplicativo Kubernetes para garantir que você possa identificar e solucionar problemas rapidamente.
+
+## Vídeo de suporte
+https://www.youtube.com/watch?v=4U7ejCffUZs&t=10s
